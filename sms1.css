@@ -48,7 +48,9 @@
     animation: tilt 3.5s infinite;
     
 }
-#hi{     top: 100px; left: 1000px;
+
+#hi{ 
+        top: 100px; left: 1000px;
     font-size: 50px;
     position: absolute;
     font-family: 'Times New Roman', Times, serif;
@@ -57,6 +59,19 @@
     animation: zoom 2s infinite;
 
 }
+
+
+#hii{ 
+    top: 250px; left: 1000px;
+font-size: 50px;
+position: absolute;
+font-family: 'Times New Roman', Times, serif;
+color: #ffffff ;
+font-size: 20px;
+animation: zoom 2s infinite;
+
+}
+
 body{
     background: linear-gradient(45deg, #d94ee6, #ff8e8e, #f05151);        
 }

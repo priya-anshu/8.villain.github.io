@@ -203,7 +203,7 @@ animation:  petal 4s 6s infinite;
     font-size: 40px;
 position: absolute; z-index: 5;
 text-shadow: 3px 3px 3px rgba(85, 46, 76, 0.137) ;
-top: 430px; left: 450px;
+top: 550px; left: 450px;
 animation:  petal 2.5s  5.1s infinite;
 
 }

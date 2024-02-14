@@ -1,6 +1,6 @@
 function showSms() {
     var mySms = document.createElement("p");
-    mySms.textContent = "Hi, there Do you wanna see something more...? Then hit the MailBox twice.";
+    mySms.textContent = "Hi, there is something more for you...? ";
     mySms.style.position = "fixed";
     mySms.style.bottom = "20px";
     mySms.style.right = "20px";
